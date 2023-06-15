@@ -1,5 +1,2 @@
-csacscsasbpr
-bt
-lp
-mac3
+
 Sharat from mac just after adding ssh-agent-add2
