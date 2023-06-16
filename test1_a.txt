@@ -4,3 +4,6 @@ sascas
 scsacscsd
 second time after third login today
 sharatbalajibalaji after configfile update 4
+Host *
+  UseKeychain yes
+  AddKeysToAgent yes
